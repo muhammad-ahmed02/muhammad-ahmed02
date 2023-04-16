@@ -7,7 +7,7 @@
 <br />
 <br />
 
-Hey there, I'm Muhammad Ahmed, a Software Engineer from Pakistan with passion for computer science 🚀. I'm working in a USA based Data Warehouse Lyftrondata from Karachi, Pakistan, Member of Microsoft Learn Student Community [@MLSC@DSU](https://www.linkedin.com/company/mlsc-dsu/), and AWS Community Builder.
+Hey there, I'm Muhammad Ahmed, a Software Engineer from Pakistan with passion for computer science 🚀. I'm working in a USA based Data Warehouse Lyftrondata from Karachi, Pakistan, Member of Microsoft Learn Student Community [@MLSC@DSU](https://www.linkedin.com/company/mlsc-dsu/).
 
 <!--
 **muhammad-ahmed02/muhammad-ahmed02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
