@@ -9,20 +9,6 @@
 
 Hey there, I'm Muhammad Ahmed, a Software Engineer from Pakistan with passion for computer science 🚀. I'm working in a USA based Data Warehouse Lyftrondata from Karachi, Pakistan, Member of Microsoft Learn Student Community [@MLSC@DSU](https://www.linkedin.com/company/mlsc-dsu/).
 
-<!--
-**muhammad-ahmed02/muhammad-ahmed02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 **Talking about Personal Stuffs:**
 
 - 👨🏽‍🌱 I’m currently Exploring Data Science; 
@@ -30,5 +16,10 @@ Here are some ideas to get you started:
 - ⚡️ Fun-Fact: I am interested in Crypto currency. 
 - 📫 How to reach me: mahmed743454@gmail.com;
 
+# 🏆 2022 Badges
+[![An image of @MuhammadAhmed's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/mahmed)](https://holopin.io/@mahmed)
+  
+# 🏆 2023 Badges
+<img align="center" alt="Merge Maven" width="200px" src="https://user-images.githubusercontent.com/62604251/232333243-9dc6034a-398b-4a95-8db5-b4205190c536.jpeg" />
 
 ⭐️ From [Muhammad Ahmed](https://mahmed.netlify.app)
