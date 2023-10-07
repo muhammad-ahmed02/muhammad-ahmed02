@@ -7,12 +7,12 @@
 <br />
 <br />
 
-Hey there, I'm Muhammad Ahmed, a Software Engineer from Pakistan with passion for computer science 🚀. I'm working in a USA based Data Warehouse Lyftrondata from Karachi, Pakistan, Member of Microsoft Learn Student Community [@MLSC@DSU](https://www.linkedin.com/company/mlsc-dsu/).
+Hey there, I'm Muhammad Ahmed, a Software Engineer from Pakistan with passion for computer science 🚀. I'm working in a USA based Data Warehouse Lyftrondata, Member of AWS Cloud Clubs [@AWSCC@DSU](https://www.linkedin.com/company/awscc-dsu/).
 
 **Talking about Personal Stuffs:**
 
 - 👨🏽‍🌱 I’m currently Exploring Data Science; 
-- 💬 Ask me about Python, ReactJs, Django, Web development, Datascience;
+- 💬 Ask me about Python, ReactJs, Django, Web development, DataScience;
 - ⚡️ Fun-Fact: I am interested in Crypto currency. 
 - 📫 How to reach me: mahmed743454@gmail.com;
 
