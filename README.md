@@ -1,6 +1,6 @@
 # 💫 About Me:
-👨🏽‍🌱 I’m currently Exploring Data Science;
-<br>💬 Ask me about Python, ReactJs, Django, Web development, DataScience;
+👨🏽‍🌱 I’m currently Exploring Data Engeering;
+<br>💬 Ask me about Python, ReactJs, Django, Web development, Data Engeering;
 <br>⚡️ Fun-Fact: I am interested in Crypto currency.
 <br>📫 How to reach me: mahmed743454@gmail.com.
 
